@@ -14,9 +14,9 @@ class OkapiBM25:
 
         self.docs_size = len(self.docs)
         self.dl = self.set_dl()
-        self.tf = self.calc_tf()
+        # self.tf = self.calc_tf()
         # self.idf = self.calc_idf()
-        self.avgdl = self.calc_avgdl()
+        # self.avgdl = self.calc_avgdl()
 
         self.k1 = 2.0
         self.b = 7.5
@@ -67,19 +67,11 @@ class OkapiBM25:
 
         return docs
 
-    def calc_tf(self):
-        tf = {}
-        # 索引語を一つずつ処理
-        for word in self.tc:
-            if not word in tf:
-                tf[word] = {}
-            for doc in self.tc[word]:
-                tf[word][doc] = self.tc[word][doc] / self.dl[doc]
-
-        return tf
+    def calc_tf(self, word, doc, dl):
+        return self.tc[word][doc] / dl
 
     def calc_idf(self, word, docs_size):
-        df = len(self.tf[word])
+        df = len(self.tc[word])
         return math.log(
             (docs_size - df + 0.5) / (df + 0.5)
         )
@@ -96,30 +88,31 @@ class OkapiBM25:
                     dl[doc] += self.tc[word][doc]
         return dl
 
-    def calc_avgdl(self):
-        return sum(self.dl.values())
+    def calc_avgdl(self, dls):
+        return sum(dls) / len(dls)
 
     def get_scores(self):
         score = {}
+        avgdl = self.calc_avgdl(self.dl.values())
         for word in self.tc:
             if word not in score:
                 score[word] = {}
             for doc in self.tc[word]:
                 idf = self.calc_idf(word, self.docs_size)
-                tf = self.tf[word][doc]
                 dl = self.dl[doc]
+                tf = self.calc_tf(word, doc, dl)
                 k1 = self.k1
                 b = self.b
-                avgdl = self.avgdl
 
                 score[word][doc] = self.calc_combined_weight(
                     idf, tf, dl, k1, b, avgdl)
-                # score[word][doc] = idf * \
-                #     ((tf * (k1 + 1)) / (tf + k1 + (1 - b + b * (dl / avgdl))))
+
         return score
 
     def calc_combined_weight(self, idf, tf, dl, k1, b, avgdl):
-        return idf * ((tf * (k1 + 1)) / (tf + k1 + (1 - b + b * (dl / avgdl))))
+        numerator = tf * (k1 + 1)
+        denominator = tf + k1 + (1 - b + b * (dl / avgdl))
+        return idf * (numerator / denominator)
 
 
 if __name__ == "__main__":
