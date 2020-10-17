@@ -111,7 +111,7 @@ class OkapiBM25:
 
     def calc_combined_weight(self, idf, tf, dl, k1, b, avgdl):
         numerator = tf * (k1 + 1)
-        denominator = tf + k1 + (1 - b + b * (dl / avgdl))
+        denominator = tf + k1 * (1 - b + b * (dl / avgdl))
         return idf * (numerator / denominator)
 
 
