@@ -1,927 +1,495 @@
 ようやく
-    sample_doc8.txt ->  -0.007724392419394224
-    sample_doc9.txt ->  -0.005407593573496651
-    sample_doc5.txt ->  -0.01356282928704025
-の
-    sample_doc8.txt ->  0.03754223777284741
-    sample_doc9.txt ->  0.05276094840421452
-    sample_doc10.txt ->  0.07052254198060692
-    sample_doc2.txt ->  0.02370460579251384
-    sample_doc3.txt ->  0.1207294242511325
-    sample_doc4.txt ->  0.04624714645462943
-    sample_doc5.txt ->  0.06608764747591214
-    sample_doc7.txt ->  0.07832165543098388
-    sample_doc6.txt ->  0.07544250778603534
+    sample_doc8.txt ->  0.03412567397224909
+    sample_doc9.txt ->  0.0019887644826282677
 思い
-    sample_doc8.txt ->  -0.01870770294423984
-で
-    sample_doc8.txt ->  0.030856646328277938
-    sample_doc9.txt ->  0.04330587276574342
-    sample_doc10.txt ->  0.05779223766991559
-    sample_doc2.txt ->  0.1584289105948656
-    sample_doc3.txt ->  0.09849239892328839
-    sample_doc1.txt ->  0.17142714561743347
-    sample_doc4.txt ->  0.03798161604148069
-    sample_doc5.txt ->  0.05417946212445686
-    sample_doc7.txt ->  0.02554780575523884
-    sample_doc6.txt ->  0.0493706341252447
+    sample_doc8.txt ->  0.08264895629097
 笹原
-    sample_doc8.txt ->  -0.012403129374548471
-    sample_doc7.txt ->  -0.010269189225780179
-を
-    sample_doc8.txt ->  0.012403129374548471
-    sample_doc9.txt ->  0.034980289719793806
-    sample_doc10.txt ->  0.007710857439040734
-    sample_doc2.txt ->  0.015716055214985505
-    sample_doc3.txt ->  0.013102465342577451
-    sample_doc1.txt ->  0.016987573755131217
-    sample_doc5.txt ->  0.021777962226479916
-    sample_doc7.txt ->  0.02059598817700955
+    sample_doc8.txt ->  0.05479591484875142
+    sample_doc7.txt ->  0.008089784914890121
 這い出す
-    sample_doc8.txt ->  -0.01870770294423984
-と
-    sample_doc8.txt ->  0.03121392704628929
-    sample_doc9.txt ->  0.021784944474920107
-    sample_doc10.txt ->  0.014467221026162592
-    sample_doc2.txt ->  0.009787608763843478
-    sample_doc3.txt ->  0.016378298458738016
-    sample_doc7.txt ->  0.025798171076764367
-    sample_doc6.txt ->  0.024852393001529246
+    sample_doc8.txt ->  0.08264895629097
 向う
-    sample_doc8.txt ->  -0.01870770294423984
-に
-    sample_doc8.txt ->  0.015060400551207541
-    sample_doc9.txt ->  0.013170137293270412
-    sample_doc10.txt ->  0.011683093128347012
-    sample_doc4.txt ->  0.0045875114055988165
-    sample_doc7.txt ->  0.009309255681007437
-    sample_doc6.txt ->  0.0059631045425727145
+    sample_doc8.txt ->  0.08264895629097
 大きな
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 池
-    sample_doc8.txt ->  -0.024890347761805744
-    sample_doc9.txt ->  -0.01740721713166251
-が
-    sample_doc8.txt ->  0.05650489868872442
-    sample_doc9.txt ->  0.06610865584082042
-    sample_doc10.txt ->  0.07052254198060692
-    sample_doc3.txt ->  0.059713765446825794
-    sample_doc1.txt ->  0.025622443655751115
-    sample_doc4.txt ->  0.09327327955374917
-    sample_doc5.txt ->  0.03284781088391204
-    sample_doc7.txt ->  0.04672862296313247
-    sample_doc6.txt ->  0.1372928943345866
-ある
-    sample_doc8.txt ->  0.012403129374548471
-    sample_doc9.txt ->  0.01740721713166251
-    sample_doc10.txt ->  0.007710857439040734
-    sample_doc2.txt ->  0.015716055214985505
-    sample_doc3.txt ->  0.013102465342577451
-    sample_doc1.txt ->  0.016987573755131217
-    sample_doc5.txt ->  0.021777962226479916
-    sample_doc7.txt ->  0.010269189225780179
-。
-    sample_doc8.txt ->  0.15639670056798405
-    sample_doc9.txt ->  0.15338874721729123
-    sample_doc10.txt ->  0.1163204880124925
-    sample_doc2.txt ->  0.11830864382047794
-    sample_doc3.txt ->  0.09849239892328839
-    sample_doc1.txt ->  0.2152941413643405
-    sample_doc4.txt ->  0.11490046716731989
-    sample_doc5.txt ->  0.1644898631634458
-    sample_doc7.txt ->  0.18188721709419117
-    sample_doc6.txt ->  0.1244355219777966
+    sample_doc8.txt ->  0.1079801851431278
+    sample_doc9.txt ->  0.006381205101560838
 吾輩
-    sample_doc8.txt ->  -0.0037269403391079464
-    sample_doc10.txt ->  -0.004643729787873268
-    sample_doc1.txt ->  -0.010256441398626647
-    sample_doc7.txt ->  -0.003085725740636818
-は
-    sample_doc8.txt ->  0.018707702944239842
-    sample_doc9.txt ->  0.013096648736042514
-    sample_doc10.txt ->  0.08245130866293157
-    sample_doc2.txt ->  0.07172791692210116
-    sample_doc1.txt ->  0.10393249099954507
-    sample_doc4.txt ->  0.02302741466738813
-    sample_doc5.txt ->  0.03284781088391204
-    sample_doc7.txt ->  0.04672862296313247
-    sample_doc6.txt ->  0.045020163182886125
+    sample_doc8.txt ->  0.016465288662327635
+    sample_doc10.txt ->  0.0010574325608715075
+    sample_doc7.txt ->  0.0024308498946951067
 前
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 坐っ
-    sample_doc8.txt ->  -0.012403129374548471
-    sample_doc6.txt ->  -0.00989575820718692
-て
-    sample_doc8.txt ->  0.15639670056798405
-    sample_doc9.txt ->  0.15338874721729123
-    sample_doc10.txt ->  0.09672842596885384
-    sample_doc2.txt ->  0.03909858091455649
-    sample_doc3.txt ->  0.1317969454544176
-    sample_doc1.txt ->  0.12796989520193794
-    sample_doc4.txt ->  0.0762804415964901
-    sample_doc5.txt ->  0.05417946212445686
-    sample_doc7.txt ->  0.12918441289571797
-    sample_doc6.txt ->  0.09927790557793773
+    sample_doc8.txt ->  0.05479591484875142
+    sample_doc6.txt ->  0.0064522430489742455
 どう
-    sample_doc8.txt ->  -0.01870770294423984
-し
-    sample_doc8.txt ->  0.015501153600953834
-    sample_doc9.txt ->  0.010840826697371938
-    sample_doc10.txt ->  0.009624514456206454
-    sample_doc3.txt ->  0.008159923267047698
-    sample_doc1.txt ->  0.021257323965769584
-    sample_doc4.txt ->  0.019095401961294587
-    sample_doc6.txt ->  0.018588781757241383
+    sample_doc8.txt ->  0.08264895629097
 たら
-    sample_doc8.txt ->  -0.024890347761805744
-    sample_doc9.txt ->  -0.008683023732540483
+    sample_doc8.txt ->  0.1079801851431278
+    sample_doc9.txt ->  0.00319337778743766
 よかろ
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 う
-    sample_doc8.txt ->  -0.007724392419394224
-    sample_doc3.txt ->  -0.008159923267047698
-    sample_doc6.txt ->  -0.006162857563721537
+    sample_doc8.txt ->  0.03412567397224909
+    sample_doc6.txt ->  0.004018313103937943
 考え
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 見
-    sample_doc8.txt ->  -0.015501153600953834
-    sample_doc3.txt ->  -0.016378298458738016
-    sample_doc1.txt ->  -0.010579482159341161
-た
-    sample_doc8.txt ->  0.09319966646092112
-    sample_doc9.txt ->  0.08702436262249084
-    sample_doc10.txt ->  0.0772191838678194
-    sample_doc2.txt ->  0.11830864382047794
-    sample_doc3.txt ->  0.16534265349048538
-    sample_doc1.txt ->  0.12796989520193794
-    sample_doc4.txt ->  0.0762804415964901
-    sample_doc5.txt ->  0.10900553482756793
-    sample_doc7.txt ->  0.07707459309560971
-    sample_doc6.txt ->  0.07425664482252252
+    sample_doc8.txt ->  0.06724765165119673
 別に
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 これ
-    sample_doc8.txt ->  -0.012403129374548471
-    sample_doc5.txt ->  -0.021777962226479916
-という
-    sample_doc8.txt ->  0.003726940339107947
-    sample_doc10.txt ->  0.002316988299553047
-    sample_doc2.txt ->  0.019135426821670527
-    sample_doc3.txt ->  0.003937079518594753
-    sample_doc1.txt ->  0.005104491937453069
-    sample_doc5.txt ->  0.006543926413602526
+    sample_doc8.txt ->  0.05479591484875142
 分別
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 ふん
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 べつ
-    sample_doc8.txt ->  -0.01870770294423984
-も
-    sample_doc8.txt ->  0.007479148070345439
-    sample_doc9.txt ->  0.005230588004083099
-    sample_doc2.txt ->  0.004722421123218318
-    sample_doc4.txt ->  0.009213336143091888
-    sample_doc7.txt ->  0.0030857257406368185
-    sample_doc6.txt ->  0.0029735157422532406
+    sample_doc8.txt ->  0.08264895629097
 出
-    sample_doc8.txt ->  -0.007724392419394224
-    sample_doc9.txt ->  -0.010840826697371938
-    sample_doc6.txt ->  -0.006162857563721537
-ない
-    sample_doc8.txt ->  0.007479148070345439
-    sample_doc9.txt ->  0.005230588004083099
-    sample_doc10.txt ->  0.004643729787873268
-    sample_doc4.txt ->  0.0045875114055988165
-    sample_doc7.txt ->  0.0030857257406368185
-    sample_doc6.txt ->  0.008968897076227254
+    sample_doc8.txt ->  0.03412567397224909
+    sample_doc9.txt ->  0.003974072254236298
+    sample_doc6.txt ->  0.004018313103937943
 しばらく
-    sample_doc8.txt ->  -0.012403129374548471
-    sample_doc6.txt ->  -0.01984500699927755
+    sample_doc8.txt ->  0.05479591484875142
+    sample_doc6.txt ->  0.012881846648653845
 泣い
-    sample_doc8.txt ->  -0.012403129374548471
-    sample_doc1.txt ->  -0.016987573755131217
-書生
-    sample_doc8.txt ->  -0.0
-    sample_doc2.txt ->  -0.0
-    sample_doc3.txt ->  -0.0
-    sample_doc7.txt ->  -0.0
-    sample_doc6.txt ->  -0.0
+    sample_doc8.txt ->  0.05479591484875142
 また
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 迎
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 来
-    sample_doc8.txt ->  -0.024890347761805744
-    sample_doc9.txt ->  -0.008683023732540483
+    sample_doc8.txt ->  0.1079801851431278
+    sample_doc9.txt ->  0.00319337778743766
 くれる
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 か
-    sample_doc8.txt ->  -0.007724392419394224
-    sample_doc1.txt ->  -0.010579482159341161
-    sample_doc6.txt ->  -0.012359027871030758
+    sample_doc8.txt ->  0.03412567397224909
+    sample_doc6.txt ->  0.008022526863651541
 考え付い
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 ニャー
-    sample_doc8.txt ->  -0.03754223777284741
-、
-    sample_doc8.txt ->  -0.0
-    sample_doc9.txt ->  -0.0
-    sample_doc10.txt ->  -0.0
-    sample_doc7.txt ->  -0.0
-    sample_doc6.txt ->  -0.0
+    sample_doc8.txt ->  0.1628670609263232
 試み
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 やっ
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 誰
-    sample_doc8.txt ->  -0.01870770294423984
+    sample_doc8.txt ->  0.08264895629097
 そのうち
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 上
-    sample_doc9.txt ->  -0.005407593573496651
-    sample_doc3.txt ->  -0.008159923267047698
-    sample_doc7.txt ->  -0.006395422075634761
+    sample_doc9.txt ->  0.0019887644826282677
+    sample_doc7.txt ->  0.005038137665429444
 さらさら
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 風
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 渡っ
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 日
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 暮れ
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 かかる
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 腹
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc10.txt ->  -0.007710857439040734
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc10.txt ->  0.0017603933126565114
 非常
-    sample_doc9.txt ->  -0.010840826697371938
-    sample_doc7.txt ->  -0.006395422075634761
-    sample_doc6.txt ->  -0.006162857563721537
+    sample_doc9.txt ->  0.003974072254236298
+    sample_doc7.txt ->  0.005038137665429444
+    sample_doc6.txt ->  0.004018313103937943
 減っ
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 泣き
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 たく
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 声
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 仕方
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc10.txt ->  -0.007710857439040734
-何
-    sample_doc9.txt ->  -0.0
-    sample_doc2.txt ->  -0.0
-    sample_doc1.txt ->  -0.0
-    sample_doc7.txt ->  -0.0
-    sample_doc6.txt ->  -0.0
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc10.txt ->  0.0017603933126565114
 よい
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc6.txt ->  -0.00989575820718692
-から
-    sample_doc9.txt ->  0.005230588004083099
-    sample_doc10.txt ->  0.002316988299553047
-    sample_doc2.txt ->  0.004722421123218318
-    sample_doc5.txt ->  0.006543926413602526
-    sample_doc7.txt ->  0.0030857257406368185
-    sample_doc6.txt ->  0.0029735157422532406
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc6.txt ->  0.0064522430489742455
 食物
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 くい
-    sample_doc9.txt ->  -0.013096648736042512
-もの
-    sample_doc9.txt ->  -0.0
-    sample_doc10.txt ->  -0.0
-    sample_doc3.txt ->  -0.0
-    sample_doc1.txt ->  -0.0
-    sample_doc5.txt ->  -0.0
+    sample_doc9.txt ->  0.0048165879135879325
 所
-    sample_doc9.txt ->  -0.010840826697371938
-    sample_doc1.txt ->  -0.010579482159341161
-    sample_doc7.txt ->  -0.006395422075634761
+    sample_doc9.txt ->  0.003974072254236298
+    sample_doc7.txt ->  0.005038137665429444
 まで
-    sample_doc9.txt ->  -0.0026091085916303165
-    sample_doc10.txt ->  -0.0023169882995530467
-    sample_doc7.txt ->  -0.003085725740636818
-    sample_doc6.txt ->  -0.00297351574225324
+    sample_doc9.txt ->  0.0009595585222576915
+    sample_doc10.txt ->  0.0005289697987911429
+    sample_doc7.txt ->  0.0024308498946951067
+    sample_doc6.txt ->  0.001938794974298685
 こう
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 決心
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 そろ
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 り
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 そろりと
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 左
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 ひだり
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 廻り
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 始め
-    sample_doc9.txt ->  -0.005407593573496651
-    sample_doc1.txt ->  -0.010579482159341161
-    sample_doc6.txt ->  -0.006162857563721537
+    sample_doc9.txt ->  0.0019887644826282677
+    sample_doc6.txt ->  0.004018313103937943
 どうも
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc5.txt ->  -0.021777962226479916
+    sample_doc9.txt ->  0.00319337778743766
 苦しい
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 そこ
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 我慢
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 無理やり
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 這
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc7.txt ->  -0.010269189225780179
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc7.txt ->  0.008089784914890121
 はっ
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 行く
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc10.txt ->  -0.007710857439040734
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc10.txt ->  0.0017603933126565114
 事
-    sample_doc9.txt ->  -0.0026091085916303165
-    sample_doc4.txt ->  -0.004587511405598816
-    sample_doc5.txt ->  -0.006543926413602525
-    sample_doc6.txt ->  -0.00297351574225324
+    sample_doc9.txt ->  0.0009595585222576915
+    sample_doc6.txt ->  0.001938794974298685
 何となく
-    sample_doc9.txt ->  -0.013096648736042512
-人間
-    sample_doc9.txt ->  -0.0
-    sample_doc2.txt ->  -0.0
-    sample_doc3.txt ->  -0.0
-    sample_doc1.txt ->  -0.0
-    sample_doc5.txt ->  -0.0
+    sample_doc9.txt ->  0.0048165879135879325
 臭い
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 へ
-    sample_doc9.txt ->  -0.010840826697371938
-    sample_doc10.txt ->  -0.014467221026162592
-    sample_doc7.txt ->  -0.006395422075634761
+    sample_doc9.txt ->  0.003974072254236298
+    sample_doc10.txt ->  0.003285849993376598
+    sample_doc7.txt ->  0.005038137665429444
 ここ
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc1.txt ->  -0.016987573755131217
+    sample_doc9.txt ->  0.00319337778743766
 這入
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 いっ
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc10.txt ->  -0.007710857439040734
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc10.txt ->  0.0017603933126565114
 どうにか
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 なる
-    sample_doc9.txt ->  -0.005407593573496651
-    sample_doc10.txt ->  -0.004802150082492719
-    sample_doc6.txt ->  -0.006162857563721537
+    sample_doc9.txt ->  0.0019887644826282677
+    sample_doc10.txt ->  0.0010963337032781108
+    sample_doc6.txt ->  0.004018313103937943
 思っ
-    sample_doc9.txt ->  -0.005407593573496651
-    sample_doc3.txt ->  -0.008159923267047698
-    sample_doc6.txt ->  -0.006162857563721537
+    sample_doc9.txt ->  0.0019887644826282677
+    sample_doc6.txt ->  0.004018313103937943
 竹垣
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc10.txt ->  -0.007710857439040734
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc10.txt ->  0.0017603933126565114
 崩
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 くずれ
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 穴
-    sample_doc9.txt ->  -0.005407593573496651
-    sample_doc10.txt ->  -0.004802150082492719
-    sample_doc5.txt ->  -0.01356282928704025
+    sample_doc9.txt ->  0.0019887644826282677
+    sample_doc10.txt ->  0.0010963337032781108
 とある
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 邸
-    sample_doc9.txt ->  -0.008683023732540483
-    sample_doc10.txt ->  -0.007710857439040734
+    sample_doc9.txt ->  0.00319337778743766
+    sample_doc10.txt ->  0.0017603933126565114
 内
-    sample_doc9.txt ->  -0.013096648736042512
+    sample_doc9.txt ->  0.0048165879135879325
 もぐり込ん
-    sample_doc9.txt ->  -0.013096648736042512
-だ
-    sample_doc9.txt ->  0.002609108591630317
-    sample_doc10.txt ->  0.004643729787873268
-    sample_doc2.txt ->  0.004722421123218318
-    sample_doc3.txt ->  0.003937079518594753
-    sample_doc4.txt ->  0.0045875114055988165
-    sample_doc7.txt ->  0.0030857257406368185
+    sample_doc9.txt ->  0.0048165879135879325
 縁
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 不思議
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 な
-    sample_doc10.txt ->  -0.004643729787873268
-    sample_doc2.txt ->  -0.004722421123218317
-    sample_doc3.txt ->  -0.003937079518594752
-    sample_doc6.txt ->  -0.00297351574225324
+    sample_doc10.txt ->  0.0010574325608715075
+    sample_doc6.txt ->  0.001938794974298685
 もし
-    sample_doc10.txt ->  -0.011630325384734403
-この
-    sample_doc10.txt ->  -0.0
-    sample_doc2.txt ->  -0.0
-    sample_doc3.txt ->  -0.0
-    sample_doc5.txt ->  -0.0
-    sample_doc6.txt ->  -0.0
+    sample_doc10.txt ->  0.002655210162185642
 破れ
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 い
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc7.txt ->  -0.02059598817700955
+    sample_doc10.txt ->  0.0017603933126565114
+    sample_doc7.txt ->  0.016143996456967742
 なかっ
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc2.txt ->  -0.031567242118158874
+    sample_doc10.txt ->  0.0017603933126565114
 なら
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc4.txt ->  -0.015267080310836923
+    sample_doc10.txt ->  0.0017603933126565114
 ついに
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 路傍
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 ろ
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 ぼう
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 餓死
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 かも
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 知れ
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 ん
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 一樹
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 蔭
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 よく
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 云
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 垣根
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 今日
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 こん
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 ち
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 至る
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 隣家
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 なり
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 三
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 毛
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc4.txt ->  -0.015267080310836923
+    sample_doc10.txt ->  0.0017603933126565114
 訪問
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 する
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc10.txt ->  0.0017603933126565114
+    sample_doc6.txt ->  0.0064522430489742455
 時
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc3.txt ->  -0.026298787488922865
+    sample_doc10.txt ->  0.0017603933126565114
 通路
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 なっ
-    sample_doc10.txt ->  -0.023309607753378845
-いる
-    sample_doc10.txt ->  -0.0
-    sample_doc3.txt ->  -0.0
-    sample_doc1.txt ->  -0.0
-    sample_doc4.txt ->  -0.0
-    sample_doc6.txt ->  -0.0
+    sample_doc10.txt ->  0.005307875209262374
 さて
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 や
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc4.txt ->  -0.015267080310836923
+    sample_doc10.txt ->  0.0017603933126565114
 しき
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 忍び込ん
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 ものの
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 これから
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 先
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 どうして
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 善い
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 いか
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 分ら
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc6.txt ->  -0.01984500699927755
+    sample_doc10.txt ->  0.0017603933126565114
+    sample_doc6.txt ->  0.012881846648653845
 その
-    sample_doc10.txt ->  -0.0023169882995530467
-    sample_doc2.txt ->  -0.004722421123218317
-    sample_doc5.txt ->  -0.006543926413602525
-    sample_doc7.txt ->  -0.003085725740636818
+    sample_doc10.txt ->  0.0005289697987911429
+    sample_doc7.txt ->  0.0024308498946951067
 うち
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc10.txt ->  0.0017603933126565114
+    sample_doc6.txt ->  0.0064522430489742455
 暗く
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 減る
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 寒
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 さ
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc4.txt ->  -0.015267080310836923
+    sample_doc10.txt ->  0.0017603933126565114
 寒し
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 雨
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 降っ
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 来る
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 始末
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 もう
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 一刻
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 猶予
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 ゆう
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 よ
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 出来
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 なく
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 とにかく
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 明るく
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 暖か
-    sample_doc10.txt ->  -0.011630325384734403
+    sample_doc10.txt ->  0.002655210162185642
 そう
-    sample_doc10.txt ->  -0.007710857439040734
-    sample_doc2.txt ->  -0.015716055214985505
+    sample_doc10.txt ->  0.0017603933126565114
 方
-    sample_doc10.txt ->  -0.023309607753378845
+    sample_doc10.txt ->  0.005307875209262374
 あるい
-    sample_doc10.txt ->  -0.011630325384734403
-しかも
-    sample_doc2.txt ->  -0.023704605792513836
+    sample_doc10.txt ->  0.002655210162185642
 あと
-    sample_doc2.txt ->  -0.015716055214985505
-    sample_doc6.txt ->  -0.00989575820718692
-聞く
-    sample_doc2.txt ->  -0.023704605792513836
+    sample_doc6.txt ->  0.0064522430489742455
 それ
-    sample_doc2.txt ->  -0.015716055214985505
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc6.txt ->  0.0064522430489742455
 中
-    sample_doc2.txt ->  -0.009787608763843478
-    sample_doc5.txt ->  -0.01356282928704025
-    sample_doc7.txt ->  -0.006395422075634761
-一番
-    sample_doc2.txt ->  -0.023704605792513836
-獰悪
-    sample_doc2.txt ->  -0.023704605792513836
-種族
-    sample_doc2.txt ->  -0.023704605792513836
-あっ
-    sample_doc2.txt ->  -0.009787608763843478
-    sample_doc3.txt ->  -0.008159923267047698
-    sample_doc4.txt ->  -0.009507997204423637
-時々
-    sample_doc2.txt ->  -0.015716055214985505
-    sample_doc5.txt ->  -0.021777962226479916
-我々
-    sample_doc2.txt ->  -0.023704605792513836
-捕
-    sample_doc2.txt ->  -0.023704605792513836
-つかまえ
-    sample_doc2.txt ->  -0.023704605792513836
-煮
-    sample_doc2.txt ->  -0.023704605792513836
-にて
-    sample_doc2.txt ->  -0.023704605792513836
-食う
-    sample_doc2.txt ->  -0.023704605792513836
-話
-    sample_doc2.txt ->  -0.023704605792513836
-しかし
-    sample_doc2.txt ->  -0.023704605792513836
-当時
-    sample_doc2.txt ->  -0.023704605792513836
-考
-    sample_doc2.txt ->  -0.023704605792513836
-別段
-    sample_doc2.txt ->  -0.023704605792513836
-恐し
-    sample_doc2.txt ->  -0.023704605792513836
-いとも
-    sample_doc2.txt ->  -0.023704605792513836
-思わ
-    sample_doc2.txt ->  -0.023704605792513836
-ただ
-    sample_doc3.txt ->  -0.019762514931846383
-彼
-    sample_doc3.txt ->  -0.019762514931846383
+    sample_doc7.txt ->  0.005038137665429444
 掌
-    sample_doc3.txt ->  -0.026298787488922865
-    sample_doc6.txt ->  -0.00989575820718692
-ひらに
-    sample_doc3.txt ->  -0.019762514931846383
-載せ
-    sample_doc3.txt ->  -0.019762514931846383
+    sample_doc6.txt ->  0.0064522430489742455
 られ
-    sample_doc3.txt ->  -0.026298787488922865
-    sample_doc7.txt ->  -0.02059598817700955
-スー
-    sample_doc3.txt ->  -0.019762514931846383
-持ち上げ
-    sample_doc3.txt ->  -0.019762514931846383
-何だか
-    sample_doc3.txt ->  -0.019762514931846383
-フワフワ
-    sample_doc3.txt ->  -0.019762514931846383
-感じ
-    sample_doc3.txt ->  -0.039666594556857206
-ばかり
-    sample_doc3.txt ->  -0.019762514931846383
-少し
-    sample_doc3.txt ->  -0.019762514931846383
-落ちつい
-    sample_doc3.txt ->  -0.019762514931846383
-顔
-    sample_doc3.txt ->  -0.013102465342577451
-    sample_doc4.txt ->  -0.030661666073603943
-いわゆる
-    sample_doc3.txt ->  -0.019762514931846383
-始
-    sample_doc3.txt ->  -0.019762514931846383
-み
-    sample_doc3.txt ->  -0.019762514931846383
-はじめ
-    sample_doc3.txt ->  -0.019762514931846383
-あろ
-    sample_doc3.txt ->  -0.019762514931846383
-妙
-    sample_doc3.txt ->  -0.019762514931846383
-今
-    sample_doc3.txt ->  -0.019762514931846383
+    sample_doc7.txt ->  0.016143996456967742
 でも
-    sample_doc3.txt ->  -0.008159923267047698
-    sample_doc1.txt ->  -0.010579482159341161
-    sample_doc7.txt ->  -0.006395422075634761
-残っ
-    sample_doc3.txt ->  -0.019762514931846383
-猫
-    sample_doc1.txt ->  -0.016987573755131217
-    sample_doc4.txt ->  -0.015267080310836923
-名前
-    sample_doc1.txt ->  -0.02562244365575111
-まだ
-    sample_doc1.txt ->  -0.02562244365575111
-無い
-    sample_doc1.txt ->  -0.02562244365575111
-どこ
-    sample_doc1.txt ->  -0.02562244365575111
-生れ
-    sample_doc1.txt ->  -0.02562244365575111
-とんと
-    sample_doc1.txt ->  -0.02562244365575111
-見当
-    sample_doc1.txt ->  -0.02562244365575111
-つか
-    sample_doc1.txt ->  -0.02562244365575111
+    sample_doc7.txt ->  0.005038137665429444
 ぬ
-    sample_doc1.txt ->  -0.016987573755131217
-    sample_doc7.txt ->  -0.02059598817700955
-薄暗い
-    sample_doc1.txt ->  -0.02562244365575111
-じめじめ
-    sample_doc1.txt ->  -0.02562244365575111
-ニャーニャー
-    sample_doc1.txt ->  -0.02562244365575111
-いた事
-    sample_doc1.txt ->  -0.02562244365575111
+    sample_doc7.txt ->  0.016143996456967742
 だけ
-    sample_doc1.txt ->  -0.016987573755131217
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc6.txt ->  0.0064522430489742455
 記憶
-    sample_doc1.txt ->  -0.016987573755131217
-    sample_doc6.txt ->  -0.00989575820718692
-第
-    sample_doc4.txt ->  -0.023027414667388127
-一
-    sample_doc4.txt ->  -0.04624714645462942
-をもって
-    sample_doc4.txt ->  -0.023027414667388127
-装飾
-    sample_doc4.txt ->  -0.023027414667388127
-れ
-    sample_doc4.txt ->  -0.023027414667388127
-べき
-    sample_doc4.txt ->  -0.023027414667388127
-はず
-    sample_doc4.txt ->  -0.023027414667388127
-つるつる
-    sample_doc4.txt ->  -0.023027414667388127
-まるで
-    sample_doc4.txt ->  -0.023027414667388127
-薬缶
-    sample_doc4.txt ->  -0.023027414667388127
-かん
-    sample_doc4.txt ->  -0.023027414667388127
-その後
-    sample_doc4.txt ->  -0.023027414667388127
-ご
-    sample_doc4.txt ->  -0.023027414667388127
-だいぶ
-    sample_doc4.txt ->  -0.023027414667388127
-逢
-    sample_doc4.txt ->  -0.023027414667388127
-こんな
-    sample_doc4.txt ->  -0.023027414667388127
-片
-    sample_doc4.txt ->  -0.023027414667388127
-輪
-    sample_doc4.txt ->  -0.023027414667388127
-かた
-    sample_doc4.txt ->  -0.023027414667388127
-わに
-    sample_doc4.txt ->  -0.023027414667388127
-度
-    sample_doc4.txt ->  -0.023027414667388127
-出会
-    sample_doc4.txt ->  -0.023027414667388127
-くわし
-    sample_doc4.txt ->  -0.023027414667388127
-のみ
-    sample_doc4.txt ->  -0.023027414667388127
-ず
-    sample_doc4.txt ->  -0.023027414667388127
-真中
-    sample_doc4.txt ->  -0.023027414667388127
-あまりに
-    sample_doc4.txt ->  -0.023027414667388127
-突起
-    sample_doc4.txt ->  -0.023027414667388127
-そうして
-    sample_doc5.txt ->  -0.03284781088391203
-ぷうぷうと
-    sample_doc5.txt ->  -0.03284781088391203
-煙
-    sample_doc5.txt ->  -0.03284781088391203
-けむり
-    sample_doc5.txt ->  -0.03284781088391203
-吹く
-    sample_doc5.txt ->  -0.03284781088391203
-咽
-    sample_doc5.txt ->  -0.03284781088391203
-むせ
-    sample_doc5.txt ->  -0.03284781088391203
-ぽく
-    sample_doc5.txt ->  -0.03284781088391203
-実に
-    sample_doc5.txt ->  -0.03284781088391203
-弱っ
-    sample_doc5.txt ->  -0.03284781088391203
-飲む
-    sample_doc5.txt ->  -0.03284781088391203
-煙草
-    sample_doc5.txt ->  -0.03284781088391203
-たばこ
-    sample_doc5.txt ->  -0.03284781088391203
-頃
-    sample_doc5.txt ->  -0.03284781088391203
-知っ
-    sample_doc5.txt ->  -0.03284781088391203
+    sample_doc6.txt ->  0.0064522430489742455
 ふと
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 気
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 付い
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 見る
-    sample_doc7.txt ->  -0.031065033430129584
+    sample_doc7.txt ->  0.024350071738311423
 たくさん
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 おっ
-    sample_doc7.txt ->  -0.010269189225780179
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc7.txt ->  0.008089784914890121
+    sample_doc6.txt ->  0.0064522430489742455
 兄弟
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 一疋
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 ぴき
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 見え
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 肝心
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 母親
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 さえ
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 姿
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 隠し
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 しまっ
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 上今
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 違っ
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 無
-    sample_doc7.txt ->  -0.010269189225780179
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc7.txt ->  0.008089784914890121
+    sample_doc6.txt ->  0.0064522430489742455
 暗
-    sample_doc7.txt ->  -0.010269189225780179
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc7.txt ->  0.008089784914890121
+    sample_doc6.txt ->  0.0064522430489742455
 むやみ
-    sample_doc7.txt ->  -0.010269189225780179
-    sample_doc6.txt ->  -0.00989575820718692
+    sample_doc7.txt ->  0.008089784914890121
+    sample_doc6.txt ->  0.0064522430489742455
 明るい
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 眼
-    sample_doc7.txt ->  -0.010269189225780179
-    sample_doc6.txt ->  -0.01984500699927755
+    sample_doc7.txt ->  0.008089784914890121
+    sample_doc6.txt ->  0.012881846648653845
 明い
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 くらい
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 はてな
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 容子
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 よう
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 す
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 おかしい
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 のそのそ
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 はい出し
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 痛い
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 藁
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 わら
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 急
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 棄て
-    sample_doc7.txt ->  -0.015489070194519169
+    sample_doc7.txt ->  0.01220186361847624
 裏
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 心持
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 速力
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 運転
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 動く
-    sample_doc6.txt ->  -0.029932324710783744
+    sample_doc6.txt ->  0.019429754636824528
 自分
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 廻る
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 胸
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 悪く
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 到底
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 とうてい
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 助から
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 ど
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 さり
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 音
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 火
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 やら
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 いくら
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 考え出そ
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406
 として
-    sample_doc6.txt ->  -0.01492582229513475
+    sample_doc6.txt ->  0.009731950916511406

@@ -110,11 +110,6 @@ class OkapiBM25:
                 score[word][doc] = self.calc_combined_weight(
                     idf, tf, dl, k1, b, avgdl)
 
-                if doc == "sample_doc3.txt":
-                    print(self.docs_size)
-                    print(len(self.tc[word]))
-                    print(idf, dl, tf, score[word][doc])
-
         return score
 
     def calc_combined_weight(self, idf, tf, dl, k1, b, avgdl):
@@ -133,7 +128,11 @@ if __name__ == "__main__":
     index_file_name = "okapi_bm25.txt"
     with open(os.path.join(script_path, index_file_path, index_file_name), 'w') as file:
         for word in scores:
+            if len([scores[word][doc] for doc in scores[word] if scores[word][doc] > 0]) == 0:
+                continue
             file.write(word + '\n')
             for doc in scores[word]:
+                if scores[word][doc] <= 0:
+                    continue
                 file.write("    {1} ->  {2}\n".format(word,
                                                       doc, scores[word][doc]))
