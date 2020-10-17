@@ -99,6 +99,9 @@ class OkapiBM25:
                 score[word] = {}
             for doc in self.tc[word]:
                 idf = self.calc_idf(word, self.docs_size)
+                # 半分以上に属する語は一般的なものとみなして、無視する
+                # (半分以上に属する語 = idf < 0)
+                idf = idf if idf > 0 else 0
                 dl = self.dl[doc]
                 tf = self.calc_tf(word, doc, dl)
                 k1 = self.k1
@@ -106,6 +109,11 @@ class OkapiBM25:
 
                 score[word][doc] = self.calc_combined_weight(
                     idf, tf, dl, k1, b, avgdl)
+
+                if doc == "sample_doc3.txt":
+                    print(self.docs_size)
+                    print(len(self.tc[word]))
+                    print(idf, dl, tf, score[word][doc])
 
         return score
 
