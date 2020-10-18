@@ -20,40 +20,34 @@ class OkapiBM25:
         self.k1 = k1
         self.b = b
 
+    # ディレクトリ直下にあるファイルを検索対象として読み込む。
     def set_termcount(self, dir_path):
         dict_ = {}
-        # DATAフォルダに含まれるファイルを一つずつ処理
         for filename in os.listdir(dir_path):
 
-            # ファイルを読み込みモードで開く
             with open(os.path.join(dir_path, filename), 'r') as f:
-                # ファイルを1行ずつ処理
                 for line in f:
                     dict_ = self.get_termcount(line, filename, dict_)
         return dict_
 
+    # 単語の分かち書きと文書ごとの出現回数を記録
     def get_termcount(self, text, filename, tc_dict=None):
         dict_ = tc_dict if tc_dict else {}
         tokens = self.t.tokenize(text)
-        # 分かち書きされた語オブジェクトの処理
         for token in tokens:
 
-            # C. 索引語の追加（とその単語のその文書内での出現回数）
-            # dict_[単語][文書] = その単語の出現回数(int)
             if token.surface in dict_:
-                # もし、そのキーの値が参照する無名辞書オブジェクトにファイル名をキーとするレコードが存在していれば
                 if filename in dict_[token.surface]:
                     dict_[token.surface][filename] += 1
-                # さもなくば
                 else:
                     dict_[token.surface][filename] = 1
-            # さもなくば
             else:
                 dict_[token.surface] = {}
                 dict_[token.surface][filename] = 1
 
         return dict_
 
+    # 文書を格納
     def set_docs(self):
         docs = {}
         # 索引語を一つずつ処理
@@ -143,8 +137,6 @@ class OkapiBM25:
 
 
 def export(path, scores):
-    index_file_path = "index"
-    index_file_name = "okapi_bm25.txt"
     with open(os.path.join(script_path, index_file_path, index_file_name), 'w') as file:
         for word in scores:
             if len([scores[word][doc] for doc in scores[word] if scores[word][doc] > 0]) == 0:
@@ -174,7 +166,7 @@ if __name__ == "__main__":
     print(result)
 
     #
-    # the result will be
+    # the search result will be
     #
     # {
     #    sample_doc8.txt: 0.08669495347057829
