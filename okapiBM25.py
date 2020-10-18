@@ -112,18 +112,38 @@ class OkapiBM25:
 
         return score
 
+    def search(self, query):
+        q_tc = self.get_termcount(query, 'query')
+        print(q_tc)
+        result = {}
+        avgdl = self.calc_avgdl(self.dl.values())
+        for word in q_tc:
+            if word not in self.tc:
+                continue  # クエリのその単語を含む文書が存在しないときは、tf = 0 -> score = 0
+            for doc in self.tc[word]:
+                idf = self.calc_idf(word, self.docs_size)
+                idf = idf if idf > 0 else 0
+                dl = self.dl[doc]
+                tf = self.calc_tf(word, doc, dl)
+                k1 = self.k1
+                b = self.b
+
+                score = self.calc_combined_weight(
+                    idf, tf, dl, k1, b, avgdl)
+
+                if doc in result:
+                    result[doc] += score
+                else:
+                    result[doc] = score
+        return result
+
     def calc_combined_weight(self, idf, tf, dl, k1, b, avgdl):
         numerator = tf * (k1 + 1)
         denominator = tf + k1 * (1 - b + b * (dl / avgdl))
         return idf * (numerator / denominator)
 
 
-if __name__ == "__main__":
-    script_path = os.path.dirname(os.path.abspath(__file__))
-    data_path = "data"
-    okapi = OkapiBM25(os.path.join(script_path, data_path))
-    scores = okapi.get_scores()
-
+def export(path, scores):
     index_file_path = "index"
     index_file_name = "okapi_bm25.txt"
     with open(os.path.join(script_path, index_file_path, index_file_name), 'w') as file:
@@ -136,3 +156,17 @@ if __name__ == "__main__":
                     continue
                 file.write("    {1} ->  {2}\n".format(word,
                                                       doc, scores[word][doc]))
+
+
+if __name__ == "__main__":
+    script_path = os.path.dirname(os.path.abspath(__file__))
+    data_path = "data"
+    okapi = OkapiBM25(os.path.join(script_path, data_path))
+    scores = okapi.get_scores()
+
+    index_file_path = "index"
+    index_file_name = "okapi_bm25.txt"
+    export(os.path.join(script_path, index_file_path, index_file_name), scores)
+
+    result = okapi.search('池の前')
+    print(result)
