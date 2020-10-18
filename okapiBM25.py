@@ -7,19 +7,18 @@ import math
 
 class OkapiBM25:
 
-    def __init__(self, document_path):
+    def __init__(self):
         self.t = Tokenizer()
+
+    def fit(self, document_path, k1, b):
         self.tc = self.set_termcount(document_path)
         self.docs = self.set_docs()
 
         self.docs_size = len(self.docs)
         self.dl = self.set_dl()
-        # self.tf = self.calc_tf()
-        # self.idf = self.calc_idf()
-        # self.avgdl = self.calc_avgdl()
 
-        self.k1 = 2.0
-        self.b = 7.5
+        self.k1 = k1
+        self.b = b
 
     def set_termcount(self, dir_path):
         dict_ = {}
@@ -159,29 +158,33 @@ def export(path, scores):
 
 
 if __name__ == "__main__":
+
     script_path = os.path.dirname(os.path.abspath(__file__))
     data_path = "data"
-    okapi = OkapiBM25(os.path.join(script_path, data_path))
-    scores = okapi.get_scores()
 
+    okapi = OkapiBM25()
+    okapi.fit(os.path.join(script_path, data_path), 2.0, 0.75)
+
+    scores = okapi.get_scores()
     index_file_path = "index"
     index_file_name = "okapi_bm25.txt"
     export(os.path.join(script_path, index_file_path, index_file_name), scores)
 
     result = okapi.search('池の前')
     print(result)
+
     #
     # the result will be
     #
     # {
-    #   'sample_doc8.txt': 0.1906291414340978,
-    #   'sample_doc9.txt': 0.006381205101560838,
-    #   'sample_doc10.txt': 0.0,
-    #   'sample_doc2.txt': -0.0,
-    #   'sample_doc3.txt': 0.0,
-    #   'sample_doc4.txt': -0.0,
-    #   'sample_doc5.txt': -0.0,
-    #   'sample_doc7.txt': 0.0,
-    #   'sample_doc6.txt': 0.0
+    #    sample_doc8.txt: 0.08669495347057829
+    #    sample_doc9.txt: 0.021478105557975705
+    #    sample_doc10.txt: 0.0
+    #    sample_doc2.txt: 0.0
+    #    sample_doc3.txt: 0.0
+    #    sample_doc4.txt: 0.0
+    #    sample_doc5.txt: 0.0
+    #    sample_doc7.txt: 0.0
+    #    sample_doc6.txt: 0.0
     # }
     #
