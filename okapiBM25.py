@@ -119,7 +119,7 @@ class OkapiBM25:
         avgdl = self.calc_avgdl(self.dl.values())
         for word in q_tc:
             if word not in self.tc:
-                continue  # クエリのその単語を含む文書が存在しないときは、tf = 0 -> score = 0
+                continue  # その単語を含む文書が存在しないとき、tf = 0 -> score = 0
             for doc in self.tc[word]:
                 idf = self.calc_idf(word, self.docs_size)
                 idf = idf if idf > 0 else 0
@@ -170,3 +170,18 @@ if __name__ == "__main__":
 
     result = okapi.search('池の前')
     print(result)
+    #
+    # the result will be
+    #
+    # {
+    #   'sample_doc8.txt': 0.1906291414340978,
+    #   'sample_doc9.txt': 0.006381205101560838,
+    #   'sample_doc10.txt': 0.0,
+    #   'sample_doc2.txt': -0.0,
+    #   'sample_doc3.txt': 0.0,
+    #   'sample_doc4.txt': -0.0,
+    #   'sample_doc5.txt': -0.0,
+    #   'sample_doc7.txt': 0.0,
+    #   'sample_doc6.txt': 0.0
+    # }
+    #
